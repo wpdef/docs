@@ -79,7 +79,7 @@ header .logo img{display: inline-block;margin: 0 auto 30px;max-width: 300px;}
 
 /* ---content-box--- */
 .content-box {}
-.content-box .wrap-box {padding:100px 10px; position: relative;}
+.content-box .wrap-box {padding:50px 10px; position: relative;}
 .content-box .header { margin-bottom: 50px;}
 .content-box .header h2{font-size: 54px; line-height: 1.2;font-weight: 500;color: #444;}
 .content-box .header .wrapper{padding: 5px; display: inline-block;}
